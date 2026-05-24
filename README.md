@@ -38,7 +38,7 @@ The application allows users to interact with an AI assistant through a simple a
 # Project Structure
 
 ```bash
-My-Practice-Python/
+GenAI-Projects/
 │
 ├── app.py
 ├── requirements.txt

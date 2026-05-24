@@ -192,13 +192,7 @@ LANGCHAIN_PROJECT=your_project_name
 Developed as part of a Generative AI learning project.
 
 
-#Demo:
+# Application Demo:
 
 <img width="725" height="862" alt="image" src="https://github.com/user-attachments/assets/dfddf659-1e20-4b7d-96ad-d5f9a65696b6" />
 
-
----
-
-# License
-
-This project is open-source and available for learning purposes.

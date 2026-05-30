@@ -1,3 +1,5 @@
+#Notes: Commond for the run the this aap is :  streamlit run app.py
+
 import streamlit as st
 import os
 

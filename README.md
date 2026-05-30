@@ -26,7 +26,7 @@ A simple REST API built using **LangChain**, **LangServe**, **FastAPI**, and **G
 
 ```text
 .
-├── app.py
+├── service.py
 ├── .env
 ├── requirements.txt
 ├── README.md
@@ -96,13 +96,13 @@ Translated Output
 Start the FastAPI server:
 
 ```bash
-python app.py
+python service.py
 ```
 
 or
 
 ```bash
-uvicorn app:app --reload
+uvicorn service:app --reload
 ```
 
 Server will run at:
